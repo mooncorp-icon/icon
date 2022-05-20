@@ -31,3 +31,4 @@
 ![arrowRight2](png/arrowRight2.png#gh-light-mode-only "arrowRight2")![arrowRight2](png/arrowRight2_white.png#gh-dark-mode-only "arrowRight2")
 <br/><br/>
 ![quoteRight](png/quoteRight.png#gh-light-mode-only "quoteRight")![quoteRight](png/quoteRight_white.png#gh-dark-mode-only "quoteRight")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![comment](png/comment.png#gh-light-mode-only "comment")![comment](png/comment_white.png#gh-dark-mode-only "comment")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
