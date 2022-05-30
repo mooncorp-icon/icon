@@ -1,4 +1,4 @@
-# icon v1.7
+# icon v1.8
 
 ![cart](png/cart.png#gh-light-mode-only "cart")![cart](png/cart_white.png#gh-dark-mode-only "cart")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![cart2](png/cart2.png#gh-light-mode-only "cart2")![cart2](png/cart2_white.png#gh-dark-mode-only "cart2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,20 +20,21 @@
 <br/><br/>
 ![menuBar](png/menuBar.png#gh-light-mode-only "menuBar")![menuBar](png/menuBar_white.png#gh-dark-mode-only "menuBar")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![menuBar2](png/menuBar2.png#gh-light-mode-only "menuBar2")![menuBar2](png/menuBar2_white.png#gh-dark-mode-only "menuBar2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![close](png/close.png#gh-light-mode-only "close")![close](png/close_white.png#gh-dark-mode-only "close")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![minus](png/minus.png#gh-light-mode-only "minus")![minus](png/minus_white.png#gh-dark-mode-only "minus")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![plus](png/plus.png#gh-light-mode-only "plus")![plus](png/plus_white.png#gh-dark-mode-only "plus")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![angleDown](png/angleDown.png#gh-light-mode-only "angleDown")![angleDown](png/angleDown_white.png#gh-dark-mode-only "angleDown")
+![plus](png/plus.png#gh-light-mode-only "plus")![plus](png/plus_white.png#gh-dark-mode-only "plus")
 <br/><br/>
+![angleDown](png/angleDown.png#gh-light-mode-only "angleDown")![angleDown](png/angleDown_white.png#gh-dark-mode-only "angleDown")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![angleDown2](png/angleDown2.png#gh-light-mode-only "angleDown2")![angleDown2](png/angleDown2_white.png#gh-dark-mode-only "angleDown2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![angleUp](png/angleUp.png#gh-light-mode-only "angleUp")![angleUp](png/angleUp_white.png#gh-dark-mode-only "angleUp")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![angleUp2](png/angleUp2.png#gh-light-mode-only "angleUp2")![angleUp2](png/angleUp2_white.png#gh-dark-mode-only "angleUp2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![arrowLeft](png/arrowLeft.png#gh-light-mode-only "arrowLeft")![arrowLeft](png/arrowLeft_white.png#gh-dark-mode-only "arrowLeft")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![arrowLeft2](png/arrowLeft2.png#gh-light-mode-only "arrowLeft2")![arrowLeft2](png/arrowLeft2_white.png#gh-dark-mode-only "arrowLeft2")
+![arrowLeft](png/arrowLeft.png#gh-light-mode-only "arrowLeft")![arrowLeft](png/arrowLeft_white.png#gh-dark-mode-only "arrowLeft")
 <br/><br/>
+![arrowLeft2](png/arrowLeft2.png#gh-light-mode-only "arrowLeft2")![arrowLeft2](png/arrowLeft2_white.png#gh-dark-mode-only "arrowLeft2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![arrowRight](png/arrowRight.png#gh-light-mode-only "arrowRight")![arrowRight](png/arrowRight_white.png#gh-dark-mode-only "arrowRight")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![arrowRight2](png/arrowRight2.png#gh-light-mode-only "arrowRight2")![arrowRight2](png/arrowRight2_white.png#gh-dark-mode-only "arrowRight2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![quoteRight](png/quoteRight.png#gh-light-mode-only "quoteRight")![quoteRight](png/quoteRight_white.png#gh-dark-mode-only "quoteRight")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![comment](png/comment.png#gh-light-mode-only "comment")![comment](png/comment_white.png#gh-dark-mode-only "comment")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![desktop](png/desktop.png#gh-light-mode-only "desktop")![desktop](png/desktop_white.png#gh-dark-mode-only "desktop")
+![comment](png/comment.png#gh-light-mode-only "comment")![comment](png/comment_white.png#gh-dark-mode-only "comment")
 <br/><br/>
+![desktop](png/desktop.png#gh-light-mode-only "desktop")![desktop](png/desktop_white.png#gh-dark-mode-only "desktop")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![mobile](png/mobile.png#gh-light-mode-only "mobile")![mobile](png/mobile_white.png#gh-dark-mode-only "mobile")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
