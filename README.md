@@ -1,4 +1,4 @@
-# icon v1.8
+# icon v1.9
 
 ![cart](png/cart.png#gh-light-mode-only "cart")![cart](png/cart_white.png#gh-dark-mode-only "cart")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![cart2](png/cart2.png#gh-light-mode-only "cart2")![cart2](png/cart2_white.png#gh-dark-mode-only "cart2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,8 +33,10 @@
 ![arrowLeft2](png/arrowLeft2.png#gh-light-mode-only "arrowLeft2")![arrowLeft2](png/arrowLeft2_white.png#gh-dark-mode-only "arrowLeft2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![arrowRight](png/arrowRight.png#gh-light-mode-only "arrowRight")![arrowRight](png/arrowRight_white.png#gh-dark-mode-only "arrowRight")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![arrowRight2](png/arrowRight2.png#gh-light-mode-only "arrowRight2")![arrowRight2](png/arrowRight2_white.png#gh-dark-mode-only "arrowRight2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![quoteRight](png/quoteRight.png#gh-light-mode-only "quoteRight")![quoteRight](png/quoteRight_white.png#gh-dark-mode-only "quoteRight")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![comment](png/comment.png#gh-light-mode-only "comment")![comment](png/comment_white.png#gh-dark-mode-only "comment")
+![ellipsis](png/ellipsis.png#gh-light-mode-only "ellipsis")![ellipsis](png/ellipsis_white.png#gh-dark-mode-only "ellipsis")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![quoteRight](png/quoteRight.png#gh-light-mode-only "quoteRight")![quoteRight](png/quoteRight_white.png#gh-dark-mode-only "quoteRight")
 <br/><br/>
+![comment](png/comment.png#gh-light-mode-only "comment")![comment](png/comment_white.png#gh-dark-mode-only "comment")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![desktop](png/desktop.png#gh-light-mode-only "desktop")![desktop](png/desktop_white.png#gh-dark-mode-only "desktop")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![mobile](png/mobile.png#gh-light-mode-only "mobile")![mobile](png/mobile_white.png#gh-dark-mode-only "mobile")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![phone](png/phone.png#gh-light-mode-only "phone")![phone](png/phone_white.png#gh-dark-mode-only "phone")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
