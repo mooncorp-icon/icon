@@ -1,4 +1,4 @@
-# icon v1.9
+# icon v1.10
 
 ![cart](png/cart.png#gh-light-mode-only "cart")![cart](png/cart_white.png#gh-dark-mode-only "cart")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![cart2](png/cart2.png#gh-light-mode-only "cart2")![cart2](png/cart2_white.png#gh-dark-mode-only "cart2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,3 +40,4 @@
 ![desktop](png/desktop.png#gh-light-mode-only "desktop")![desktop](png/desktop_white.png#gh-dark-mode-only "desktop")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![mobile](png/mobile.png#gh-light-mode-only "mobile")![mobile](png/mobile_white.png#gh-dark-mode-only "mobile")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![phone](png/phone.png#gh-light-mode-only "phone")![phone](png/phone_white.png#gh-dark-mode-only "phone")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![circle](png/circle.png#gh-light-mode-only "circle")![circle](png/circle_white.png#gh-dark-mode-only "circle")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
